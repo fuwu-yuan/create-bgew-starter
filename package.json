@@ -1,0 +1,32 @@
+{
+  "name": "@fuwu-yuan/create-bgew-starter",
+  "publishConfig": {
+    "access": "public"
+  },
+  "version": "1.2.0",
+  "bin": {
+    "create-bgew-starter": "index.js"
+  },
+  "type": "module",
+  "description": "Create starters for BGEW 2D Game Engine",
+  "keywords": [
+    "game",
+    "engine",
+    "french",
+    "bgew",
+    "gaming",
+    "2d",
+    "web"
+  ],
+  "author": "Steve Cohen",
+  "license": "MIT",
+  "dependencies": {
+    "fs-extra": "^11.3.1",
+    "node-fetch": "^3.3.2",
+    "os": "^0.1.2",
+    "path": "^0.12.7",
+    "process": "^0.11.10",
+    "unzipper": "^0.12.3",
+    "url": "^0.11.4"
+  }
+}
